@@ -14,6 +14,7 @@ Research interests include LLM Reasoning and Reinforcement Learning, Hallucinati
 Academic background
 ======
 * Ph.D. in Computer Science (2024-Present), Hong Kong University of Science and Technology
+* Ph.D. supervisor: Professor Junxian He, who previously advised Junteng Liu during undergraduate studies at SJTU
 * B.Eng. (2020-2024), Shanghai Jiao Tong University
 * Zhiyuan Honor Scholarship, Shanghai Jiao Tong University
 
